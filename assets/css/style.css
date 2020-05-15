@@ -10,6 +10,10 @@ html {
     color: #410107;
 }
 
+.alert-info {
+    background: #b4def1;
+}
+
 .listnumbers {
     font-weight: bolder;
 }
@@ -33,5 +37,5 @@ html {
 }
 
 .alert-secondary {
-    background: #d1ecf1;
+    background: #b4def1;
 }
