@@ -2,8 +2,8 @@ html {
   scroll-behavior: smooth;
 }
 
-.alert-info {
-    
+.img-fluid {
+    padding-left: inherit;
 }
 
 .jumbocolour {
