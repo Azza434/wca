@@ -1,0 +1,25 @@
+html {
+  scroll-behavior: smooth;
+}
+
+.alert-info {
+    
+}
+
+.jumbocolour {
+    color: #383d41;
+    background-color: #fafafa;
+    border-color: #d6d8db;
+}
+
+.navigation {
+    padding: 0 0 0 0;
+}
+
+.img-fluid {
+    margin-left: 10;
+}
+
+.alert-secondary {
+    background: #d1ecf1;
+}
