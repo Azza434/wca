@@ -39,3 +39,7 @@ html {
 .alert-secondary {
     background: #b4def1;
 }
+
+.credits {
+    padding-bottom: 10px;
+}
