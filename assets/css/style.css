@@ -6,6 +6,18 @@ html {
     padding-left: inherit;
 }
 
+.headtext {
+    color: #410107;
+}
+
+.listnumbers {
+    font-weight: bolder;
+}
+
+.jumbocontact{
+    color: #3f51b5;
+}
+
 .jumbocolour {
     color: #383d41;
     background-color: #fafafa;
