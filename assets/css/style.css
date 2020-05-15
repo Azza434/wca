@@ -43,3 +43,8 @@ html {
 .credits {
     padding-bottom: 10px;
 }
+
+.credits a {
+    color: #5f0000;
+    transition: 0.3s;
+}
